@@ -35,6 +35,6 @@ An AI-powered web application that allows users to upload their resume and recei
 
 * LinkedIn profile analysis
 * Job description matching
-* Multi-language resume support
+* Multi language resume support
 * ATS compatibility score
 * User dashboard and history
